@@ -1,0 +1,29 @@
+body {
+    overflow-x: hidden;
+    color: #db9cf0;
+}
+
+.navbar {
+    font-weight: 500;
+    letter-spacing: .1rem;
+    background: rgba(0,0,0,0)!important;
+}
+.navbar-brand img {
+    height: 2rem;
+}
+  .navbar-nav li{
+     padding-right: 4.5rem;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+      color: white;
+      padding-top: .8rem;
+  }
+  .navbar-dark .navbar-nav .nav-link.active,
+  .navbar-dark .navbar-nav .nav-link:hover {
+      color: #1ebba3;
+  }
+
+  .carousel-item {
+      height: 100vh;
+  }
+  
